@@ -1,4 +1,4 @@
-#NEWS APP
+# NEWS APP
 <img width="1885" height="1039" alt="image" src="https://github.com/user-attachments/assets/87865335-b8c3-4c88-b3e9-a7a5ee344622" />
 
 
